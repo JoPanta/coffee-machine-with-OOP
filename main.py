@@ -26,9 +26,9 @@ while is_on:
 
     elif choice == "report":
 
-        print(my_coffee_maker.report())
+        my_coffee_maker.report()
 
-        print(my_money_machine.report())
+        my_money_machine.report()
 
     else:
 
